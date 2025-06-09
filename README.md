@@ -6,7 +6,7 @@
 
 ## 📚 Dataset
 
-- **Dataset**: [RVL-CDIP](["https://www.cs.cmu.edu/~aharley/rvl-cdip/](https://huggingface.co/datasets/aharley/rvl_cdip"))
+- **Dataset**: [RVL-CDIP]([https://huggingface.co/datasets/aharley/rvl_cdip]))
 - **Total images**: 400,000 document images
 - **Classes**: 16
 - **Image format**: Grayscale document images, each sized 224×224 during training
